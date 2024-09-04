@@ -1,0 +1,1 @@
+A simple Employee Management System built using Spring Boot, Spring Data JPA, and Oracle Database. This project provides basic functionality for employee management, including adding, updating, and searching for employees. It's designed as a backend-focused application with plans to expand on features like security and more robust search capabilities.
